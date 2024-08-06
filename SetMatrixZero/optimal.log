@@ -1,4 +1,4 @@
-
+ SetMatrixZero optimal
 Original Matrix:
 0 1 2 0 
 3 4 5 2 
@@ -7,8 +7,6 @@ After setting zeros:
 0 0 0 0 
 0 4 5 0 
 0 3 1 0 
-
-
 Original Matrix:
 1 1 1 
 1 0 1 
@@ -17,8 +15,6 @@ After setting zeros:
 1 0 1 
 0 0 0 
 1 0 1 
-
-
 Original Matrix:
 0 0 0 
 0 0 0 
@@ -28,11 +24,5 @@ After setting zeros:
 0 0 0 
 0 0 0 
 
-
-Complexity:
-
-Time complexity:O((NM)(N + M)) + O(N*M)
-where N = no. of rows in the matrix and M = no. of columns in the matrix.
-
-Space complexity:O(1)
-
+Time complexity: O(N*M)
+Space complexity: O(1) 
