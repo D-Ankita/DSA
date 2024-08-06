@@ -169,3 +169,5 @@ public class optimal {
         }
 }
 ```
+
+Visualizer for Optimal Approach : https://algorithm-visualizer.org/scratch-paper/fc44592a29c27c9f0bc25bd7297427dc
