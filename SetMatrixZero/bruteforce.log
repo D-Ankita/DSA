@@ -1,0 +1,30 @@
+
+Original Matrix:
+0 1 2 0 
+3 4 5 2 
+1 3 1 5 
+After setting zeros:
+0 0 0 0 
+0 4 5 0 
+0 3 1 0 
+
+
+Original Matrix:
+1 1 1 
+1 0 1 
+1 1 1 
+After setting zeros:
+1 0 1 
+0 0 0 
+1 0 1 
+
+
+Original Matrix:
+0 0 0 
+0 0 0 
+0 0 0 
+After setting zeros:
+0 0 0 
+0 0 0 
+0 0 0 
+
